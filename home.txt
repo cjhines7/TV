@@ -8,3 +8,64 @@
 	<link><link>http://ignoreme</link></link>
 	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/entertainment.xml</externallink>
 </item>
+
+<item>
+	<title>Sports</title>
+	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
+	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
+	<link><link>http://ignoreme</link></link>
+	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/sports.xml</externallink>
+</item>
+
+<item>
+	<title>News</title>
+	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
+	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
+	<link><link>http://ignoreme</link></link>
+	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/news.xml</externallink>
+</item>
+
+<item>
+	<title>Music</title>
+	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
+	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
+	<link><link>http://ignoreme</link></link>
+	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/music.xml</externallink>
+</item>
+
+<item>
+	<title>Movies</title>
+	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
+	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
+	<link><link>http://ignoreme</link></link>
+	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/movies.xml</externallink>
+</item>
+
+<item>
+	<title>Kids</title>
+	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
+	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
+	<link><link>http://ignoreme</link></link>
+	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/kids.xml</externallink>
+</item>
+
+<item>
+	<title>24-7 TV Shows</title>
+	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
+	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
+	<link><link>http://ignoreme</link></link>
+	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/247.xml</externallink>
+</item>
+
+<item>
+	<title>Adult (XXX)</title>
+	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
+	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
+	<link><link>http://ignoreme</link></link>
+	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/xxx.xml</externallink>
+</item>
+
+
+
+
+
