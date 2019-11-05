@@ -1,0 +1,24 @@
+<!--News -->
+<item>
+	<item>
+		<title>Canada News</title>
+    	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Canadian_television_stub_icon.svg/395px-Canadian_television_stub_icon.svg.png</thumbnail>
+		<link>ignorme</link>
+		<jsonrpc>plugin://plugin.video.stvpro/?action=stream_video&amp;extra&amp;page&amp;plot&amp;thumbnail=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername%26password%26type%3dget_live_streams%26cat_id%3d106</jsonrpc>
+	</item>
+	<item>
+		<title>US News</title>
+    	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/USA_flag_on_television.svg/1200px-USA_flag_on_television.svg.png</thumbnail>
+		<link>ignorme</link>
+		<jsonrpc>plugin://plugin.video.stvpro/?action=stream_video&amp;extra&amp;page&amp;plot&amp;thumbnail=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername%26password%26type%3dget_live_streams%26cat_id%3d97</jsonrpc>
+	</item>
+	<item>
+		<title>UK News</title>
+    	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Union_flag_tv.svg/1200px-Union_flag_tv.svg.png</thumbnail>
+		<link>ignorme</link>
+		<jsonrpc>plugin://plugin.video.stvpro/?action=stream_video&amp;extra&amp;page&amp;plot&amp;thumbnail=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername%26password%26type%3dget_live_streams%26cat_id%3d47</jsonrpc>
+	</item>	
+</item>
