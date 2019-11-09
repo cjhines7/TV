@@ -5,7 +5,7 @@
 	<title>Entertainment</title>
 	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
-	<link><link>http://ignoreme</link></link>
+	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/entertainment.xml</externallink>
 </item>
 
@@ -13,7 +13,7 @@
 	<title>Sports</title>
 	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
-	<link><link>http://ignoreme</link></link>
+	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/sports.xml</externallink>
 </item>
 
@@ -21,7 +21,7 @@
 	<title>News</title>
 	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
-	<link><link>http://ignoreme</link></link>
+	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/news.xml</externallink>
 </item>
 
@@ -29,7 +29,7 @@
 	<title>Music</title>
 	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
-	<link><link>http://ignoreme</link></link>
+	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/music.xml</externallink>
 </item>
 
@@ -37,7 +37,7 @@
 	<title>Movies</title>
 	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
-	<link><link>http://ignoreme</link></link>
+	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/movies.xml</externallink>
 </item>
 
@@ -45,7 +45,7 @@
 	<title>Kids</title>
 	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
-	<link><link>http://ignoreme</link></link>
+	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/kids.xml</externallink>
 </item>
 
@@ -53,17 +53,19 @@
 	<title>24-7 TV Shows</title>
 	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
-	<link><link>http://ignoreme</link></link>
-	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/247.xml</externallink>
+	<link>http://ignoreme</link>
+	<jsonrpc>plugin://plugin.video.stvpro/?action=stream_video&amp;extra&amp;page&amp;plot&amp;thumbnail=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d98</jsonrpc>
 </item>
 
 <item>
 	<title>Adult (XXX)</title>
 	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 	<thumbnail>https://lh5.ggpht.com/Ce-Ax4FVMn9ik_Twd5gtBAY91Q2cYRDo0RHuCMwhpccCx2rsXGfnRNy3ufsLAio3NdE=w300</thumbnail>
-	<link><link>http://ignoreme</link></link>
-	<externallink>https://raw.githubusercontent.com/cjhines7/TV/master/xxx.xml</externallink>
+	<link>http://ignoreme</link>
+	<jsonrpc>plugin://plugin.video.stvpro/?action=stream_video&amp;extra&amp;page&amp;plot&amp;thumbnail=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d24</jsonrpc>
 </item>
+
+
 
 
 
