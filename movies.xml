@@ -1,24 +1,24 @@
 <!--Movies -->
 <item>
 	<item>
-		<title>Canadian Movies</title>
+		<title>Movie Pix</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
-		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Canadian_television_stub_icon.svg/395px-Canadian_television_stub_icon.svg.png</thumbnail>
+		<thumbnail>https://images.all-free-download.com/images/graphiclarge/movie_logo_design_text_reel_filmstrip_icons_decoration_6829232.jpg</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d109</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage&amp;index=27&amp;logos&amp;mode=10&amp;name=Movie%20Pix&amp;url=http%3a%2f%2fmy.tv-store.co%3a6900%2fget.php%3fusername%3drcrosby%26password%3dHelix123Helix%26type%3dm3u_plus%26output%3dts&amp;uuid=0</jsonrpc>
 	</item>
 	<item>
 		<title>US Movies</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/USA_flag_on_television.svg/1200px-USA_flag_on_television.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d95</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3a%2f%2fthemediaboxx.com%2fwp-content%2fuploads%2f2018%2f05%2fLifetime_Movie_Network_2003.png&amp;index=19&amp;logos&amp;mode=10&amp;name=USA%20Movies&amp;url=http%3a%2f%2fmy.tv-store.co%3a6900%2fget.php%3fusername%3drcrosby%26password%3dHelix123Helix%26type%3dm3u_plus%26output%3dts&amp;uuid=0</jsonrpc>
 	</item>
 	<item>
 		<title>UK Movies</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Union_flag_tv.svg/1200px-Union_flag_tv.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d4</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3a%2f%2fthemediaboxx.com%2fwp-content%2fuploads%2f2018%2f09%2fSky_Cinema_Premiere.png&amp;index=5&amp;logos&amp;mode=10&amp;name=UK%20Movies&amp;url=http%3a%2f%2fmy.tv-store.co%3a6900%2fget.php%3fusername%3drcrosby%26password%3dHelix123Helix%26type%3dm3u_plus%26output%3dts&amp;uuid=0</jsonrpc>
 	</item>	
 </item>

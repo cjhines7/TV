@@ -5,20 +5,20 @@
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Canadian_television_stub_icon.svg/395px-Canadian_television_stub_icon.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d106</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage&amp;index=24&amp;logos&amp;mode=10&amp;name=Canada%20Sport&amp;url=http%3a%2f%2fmy.tv-store.co%3a6900%2fget.php%3fusername%3drcrosby%26password%3dHelix123Helix%26type%3dm3u_plus%26output%3dts&amp;uuid=0</jsonrpc>
 	</item>
 	<item>
 		<title>US Sports</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/USA_flag_on_television.svg/1200px-USA_flag_on_television.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d97</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fen%2fb%2fb2%2fStadium_TV_network_logo.png&amp;index=17&amp;logos&amp;mode=10&amp;name=USA%20Sport&amp;url=http%3a%2f%2fmy.tv-store.co%3a6900%2fget.php%3fusername%3drcrosby%26password%3dHelix123Helix%26type%3dm3u_plus%26output%3dts&amp;uuid=0</jsonrpc>
 	</item>
 	<item>
 		<title>UK Sports</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Union_flag_tv.svg/1200px-Union_flag_tv.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d47</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3a%2f%2fthemediaboxx.com%2fwp-content%2fuploads%2f2018%2f05%2fSKYSPORTSNEWS.png&amp;index=7&amp;logos&amp;mode=10&amp;name=UK%20Sport&amp;url=http%3a%2f%2fmy.tv-store.co%3a6900%2fget.php%3fusername%3drcrosby%26password%3dHelix123Helix%26type%3dm3u_plus%26output%3dts&amp;uuid=0</jsonrpc>
 	</item>	
 </item>

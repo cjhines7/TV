@@ -5,20 +5,13 @@
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Canadian_television_stub_icon.svg/395px-Canadian_television_stub_icon.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d107</jsonrpc>
-	</item>
-	<item>
-		<title>US Kids</title>
-    	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
-		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/USA_flag_on_television.svg/1200px-USA_flag_on_television.svg.png</thumbnail>
-		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d99</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage&amp;index=21&amp;logos&amp;mode=10&amp;name=Canada%20Kids&amp;url=http%3a%2f%2fmy.tv-store.co%3a6900%2fget.php%3fusername%3drcrosby%26password%3dHelix123Helix%26type%3dm3u_plus%26output%3dts&amp;uuid=0</jsonrpc>
 	</item>
 	<item>
 		<title>UK Kids</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Union_flag_tv.svg/1200px-Union_flag_tv.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d9</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3a%2f%2fthemediaboxx.com%2fwp-content%2fuploads%2f2019%2f09%2fDisney_Channel_Germany_Logo_2014.png&amp;index=4&amp;logos&amp;mode=10&amp;name=UK%20Kids&amp;url=http%3a%2f%2fmy.tv-store.co%3a6900%2fget.php%3fusername%3drcrosby%26password%3dHelix123Helix%26type%3dm3u_plus%26output%3dts&amp;uuid=0</jsonrpc>
 	</item>	
 </item>
