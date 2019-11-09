@@ -5,49 +5,49 @@
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Canadian_television_stub_icon.svg/395px-Canadian_television_stub_icon.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d104</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d104</jsonrpc>
 	</item>
 	<item>
 		<title>USA Networks</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/USA_flag_on_television.svg/1200px-USA_flag_on_television.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d8</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d8</jsonrpc>
 	</item>
 	<item>
 		<title>UK Networks</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Union_flag_tv.svg/1200px-Union_flag_tv.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d15</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d15</jsonrpc>
 	</item>	
 	<item>
 		<title>UK Entertainment</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Union_flag_tv.svg/1200px-Union_flag_tv.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d3</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d3</jsonrpc>
 	</item>
 	<item>
 		<title>USA Local</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/USA_flag_on_television.svg/1200px-USA_flag_on_television.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d142</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d142</jsonrpc>
 	</item>
 	<item>
 		<title>USA Factual</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/USA_flag_on_television.svg/1200px-USA_flag_on_television.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d123</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d123</jsonrpc>
 	</item>	
 	<item>
 		<title>UK Factual</title>
     	<fanart>https://www.cooliptv.info/wp-content/uploads/2017/11/IPTV.jpg</fanart>	
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Union_flag_tv.svg/1200px-Union_flag_tv.svg.png</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;title=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d14</jsonrpc>
+		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3A%2F%2Fwww.cooliptv.info%2Fwp-content%2Fuploads%2F2017%2F11%2FIPTV.jpg&amp;name=All&amp;url=http%3a%2f%2fmy.tvstore.link%3a6900%2fenigma2.php%3fusername=rcrosby%26password=Helix123Helix%26type%3dget_live_streams%26cat_id%3d14</jsonrpc>
 	</item>	
 	<item>
 		<title>TESTING SECTION</title>
