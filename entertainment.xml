@@ -17,7 +17,7 @@
 	<item>
 		<title>USA Networks</title>
     	<fanart>https://www.logolynx.com/images/logolynx/c6/c6d5d2a87b44ab910c3dc438368524fe.jpeg</fanart>	
-		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/USA_flag_on_television.svg/1200px-USA_flag_on_television.svg.png</thumbnail>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3a/TV-icon-EUA.svg</thumbnail>
 		<link>ignorme</link>
 		<jsonrpc>plugin://plugin.video.playlistLoader/?cache=0&amp;iconimage=https%3a%2f%2fthemediaboxx.com%2fwp-content%2fuploads%2f2018%2f05%2fbbc-america.png&amp;index=16&amp;logos&amp;mode=10&amp;name=USA%20Network&amp;url=http%3a%2f%2fmy.tv-store.co%3a6900%2fget.php%3fusername%3drcrosby%26password%3dHelix123Helix%26type%3dm3u_plus%26output%3dts&amp;uuid=0</jsonrpc>
 	</item>
