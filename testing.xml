@@ -5,6 +5,6 @@
     	        <fanart></fanart>	
 		<thumbnail></thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.json_iptv/?action=json_iptv_scrape_channel&url=Tubi</jsonrpc>
+		<jsonrpc>plugin://plugin.video.json_iptv</jsonrpc>
 		<!-- <jsonrpc>plugin://plugin.video.scrubsv2/?action=ustvgoNavigator</jsonrpc> -->
 	</item>	
