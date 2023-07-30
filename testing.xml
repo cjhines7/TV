@@ -5,6 +5,6 @@
     	<fanart>https://www.facebook.com/photo/download/?fbid=378489376218499&ext=1570825188&hash=AeQP0lZi7eqrYWbH</fanart>	
 		<thumbnail>https://www.facebook.com/photo/download/?fbid=378489376218499&ext=1570825188&hash=AeQP0lZi7eqrYWbH</thumbnail>
 		<link>ignorme</link>
-		<jsonrpc>plugin://plugin.video.temptv/?action=ustvgoNavigator</jsonrpc>
+		<jsonrpc>plugin://plugin.video.json_iptv/?action=json_iptv_scrape_channel&url=Tubi</jsonrpc>
 		<!-- <jsonrpc>plugin://plugin.video.scrubsv2/?action=ustvgoNavigator</jsonrpc> -->
 	</item>	
