@@ -2,8 +2,8 @@
 
 	<item>
 		<title>TESTING SECTION</title>
-    	        <fanart>https://ma-hub.imgix.net/wp-images/2019/05/29222105/royalty-free-music-Ambient.jpg</fanart>	
-		<thumbnail>https://ma-hub.imgix.net/wp-images/2019/05/29222105/royalty-free-music-Ambient.jpg</thumbnail>
+    	        <fanart></fanart>	
+		<thumbnail></thumbnail>
 		<link>ignorme</link>
 		<jsonrpc>plugin://plugin.video.json_iptv/?action=json_iptv_scrape_channel&url=Tubi</jsonrpc>
 		<!-- <jsonrpc>plugin://plugin.video.scrubsv2/?action=ustvgoNavigator</jsonrpc> -->
