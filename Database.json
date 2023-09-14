@@ -1,0 +1,19 @@
+[
+  {
+    "Name":"TEST",
+    "Address":"https:\/\/iptv-org.github.io\/iptv\/countries\/ca.m3u",
+    "Mac":"",
+    "Username":"",
+    "Password":"",
+    "SerialNumber":"",
+    "DeviceID":"",
+    "DeviceID2":"",
+    "Firmware":"",
+    "StbModel":"",
+    "TimeZone":"",
+    "UserAgent":"",
+    "PlayerUserAgent":"",
+    "HttpProxy":"",
+    "RequestMethod":"GET"
+  }
+]
