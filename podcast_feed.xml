@@ -2,15 +2,120 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>TorrentGalaxy MP3 Podcast Feed</title>
-    <link>https://rss-bridge.org/bridge01/?action=display&amp;bridge=TorrentGalaxyBridge&amp;search=mp3+%5BDbaum2%5D&amp;lang=0&amp;format=Html</link>
+    <link>https://torrentgalaxy.to/torrents.php?c17=1&amp;search=DBaum2&amp;lang=0&amp;nox=2&amp;nox=1#results</link>
     <description>A podcast feed generated from TorrentGalaxy MP3 search results.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 May 2024 22:32:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 23:11:09 +0000</lastBuildDate>
     <item>
-      <title>Howard+Stern+Show+-+03.20.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/f68388f3939cadce1bbcde7c27744ccaec1f4730/Howard+Stern+Show+-+03.20.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+03.20.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion</title>
+      <link>http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion</link>
+      <description>http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion</description>
+    </item>
+    <item>
+      <title>https://torrentgalaxy.to</title>
+      <link>https://torrentgalaxy.to</link>
+      <description>https://torrentgalaxy.to</description>
+    </item>
+    <item>
+      <title>TorrentGalaxy</title>
+      <link>https://torrentgalaxy.to</link>
+      <description>TorrentGalaxy</description>
+    </item>
+    <item>
+      <title>RSS feed</title>
+      <link>/rss</link>
+      <description>RSS feed</description>
+    </item>
+    <item>
+      <title>Donate</title>
+      <link>/donate</link>
+      <description>Donate</description>
+    </item>
+    <item>
+      <title>Proxy list</title>
+      <link>https://proxygalaxy.me</link>
+      <description>Proxy list</description>
+    </item>
+    <item>
+      <title>API</title>
+      <link>/torrentdump</link>
+      <description>API</description>
+    </item>
+    <item>
+      <title>DMCA</title>
+      <link>/dmca</link>
+      <description>DMCA</description>
+    </item>
+    <item>
+      <title>Site rules</title>
+      <link>/rules</link>
+      <description>Site rules</description>
+    </item>
+    <item>
+      <title>Staff list</title>
+      <link>/staff</link>
+      <description>Staff list</description>
+    </item>
+    <item>
+      <title>Next</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=1</link>
+      <description>Next</description>
+    </item>
+    <item>
+      <title>50</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=49</link>
+      <description>50</description>
+    </item>
+    <item>
+      <title>49</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=48</link>
+      <description>49</description>
+    </item>
+    <item>
+      <title>48</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=47</link>
+      <description>48</description>
+    </item>
+    <item>
+      <title>47</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=46</link>
+      <description>47</description>
+    </item>
+    <item>
+      <title>46</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=45</link>
+      <description>46</description>
+    </item>
+    <item>
+      <title>5</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=4</link>
+      <description>5</description>
+    </item>
+    <item>
+      <title>4</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=3</link>
+      <description>4</description>
+    </item>
+    <item>
+      <title>3</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=2</link>
+      <description>3</description>
+    </item>
+    <item>
+      <title>2</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=1</link>
+      <description>2</description>
+    </item>
+    <item>
+      <title>1 (current)</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=0</link>
+      <description>1 (current)</description>
+    </item>
+    <item>
+      <title>Previous</title>
+      <link>#</link>
+      <description>Previous</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -18,49 +123,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/f68388f3939cadce1bbcde7c27744ccaec1f4730/Howard+Stern+Show+-+03.20.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
-    </item>
-    <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:f68388f3939cadce1bbcde7c27744ccaec1f4730&amp;dn=Howard Stern Show - 03.20.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
-    </item>
-    <item>
-      <title>Howard Stern Show - 03.20.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15943405/Howard-Stern-Show---03-20-2024-TrumpSux-mp3--Dbaum2-</link>
-      <description>Howard Stern Show - 03.20.2024-TrumpSux.mp3 [Dbaum2]</description>
-    </item>
-    <item>
-      <title>Howard+Stern+History+03.21.2024-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/2213d153246c940f9e6c64754feab4be46c79785/Howard+Stern+History+03.21.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+History+03.21.2024-TS.mp3+%5BDbaum2%5D</description>
+      <title>0</title>
+      <link>/torrent/15945417/Howard-Stern-History-03-21-2024-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
       <title>indexFroggy</title>
       <link>/profile/indexFroggy</link>
       <description>indexFroggy</description>
-    </item>
-    <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/2213d153246c940f9e6c64754feab4be46c79785/Howard+Stern+History+03.21.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
-    </item>
-    <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:2213d153246c940f9e6c64754feab4be46c79785&amp;dn=Howard Stern History 03.21.2024-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
     </item>
     <item>
       <title>Howard Stern History 03.21.2024-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15945417/Howard-Stern-History-03-21-2024-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15945417/Howard-Stern-History-03-21-2024-TS-mp3--Dbaum2-</link>
       <description>Howard Stern History 03.21.2024-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+History+03.22.2024-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/31c307afd32ca191e761f49c0b5cd20cb2a04885/Howard+Stern+History+03.22.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+History+03.22.2024-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -68,24 +148,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/31c307afd32ca191e761f49c0b5cd20cb2a04885/Howard+Stern+History+03.22.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15950934/Howard-Stern-History-03-22-2024-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:31c307afd32ca191e761f49c0b5cd20cb2a04885&amp;dn=Howard Stern History 03.22.2024-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern History 03.22.2024-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15950934/Howard-Stern-History-03-22-2024-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15950934/Howard-Stern-History-03-22-2024-TS-mp3--Dbaum2-</link>
       <description>Howard Stern History 03.22.2024-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Wrap+Up+Show+03.25.2024-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/2db004c2ce8f0d5e4009ae9f2c45895a59008e5e/Howard+Stern+Wrap+Up+Show+03.25.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Wrap+Up+Show+03.25.2024-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -93,24 +173,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/2db004c2ce8f0d5e4009ae9f2c45895a59008e5e/Howard+Stern+Wrap+Up+Show+03.25.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15951875/Howard-Stern-Wrap-Up-Show-03-25-2024-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:2db004c2ce8f0d5e4009ae9f2c45895a59008e5e&amp;dn=Howard Stern Wrap Up Show 03.25.2024-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Wrap Up Show 03.25.2024-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15951875/Howard-Stern-Wrap-Up-Show-03-25-2024-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15951875/Howard-Stern-Wrap-Up-Show-03-25-2024-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Wrap Up Show 03.25.2024-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+03.25.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/4d1ea3b4db643b7a72c853b521c90381c89b14f3/Howard+Stern+Show+-+03.25.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+03.25.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -118,24 +198,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/4d1ea3b4db643b7a72c853b521c90381c89b14f3/Howard+Stern+Show+-+03.25.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15952973/Howard-Stern-Show---03-25-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:4d1ea3b4db643b7a72c853b521c90381c89b14f3&amp;dn=Howard Stern Show - 03.25.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 03.25.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15952973/Howard-Stern-Show---03-25-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/15952973/Howard-Stern-Show---03-25-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 03.25.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+03.26.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/2f946f44eccd3c547492196db14ea694cfa40996/Howard+Stern+Show+-+03.26.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+03.26.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -143,24 +223,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/2f946f44eccd3c547492196db14ea694cfa40996/Howard+Stern+Show+-+03.26.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15953516/Howard-Stern-Show---03-26-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:2f946f44eccd3c547492196db14ea694cfa40996&amp;dn=Howard Stern Show - 03.26.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 03.26.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15953516/Howard-Stern-Show---03-26-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/15953516/Howard-Stern-Show---03-26-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 03.26.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+03.27.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/387ce4da3d19bbc82e7b1a25c263664594d2b85a/Howard+Stern+Show+-+03.27.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+03.27.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -168,24 +248,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/387ce4da3d19bbc82e7b1a25c263664594d2b85a/Howard+Stern+Show+-+03.27.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15956744/Howard-Stern-Show---03-27-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:387ce4da3d19bbc82e7b1a25c263664594d2b85a&amp;dn=Howard Stern Show - 03.27.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 03.27.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15956744/Howard-Stern-Show---03-27-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/15956744/Howard-Stern-Show---03-27-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 03.27.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+04.01.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/1b7f1bd52af39aa1ba2fc48c44b70d0a4ce5f52e/Howard+Stern+Show+-+04.01.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+04.01.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -193,24 +273,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/1b7f1bd52af39aa1ba2fc48c44b70d0a4ce5f52e/Howard+Stern+Show+-+04.01.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15965027/Howard-Stern-Show---04-01-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:1b7f1bd52af39aa1ba2fc48c44b70d0a4ce5f52e&amp;dn=Howard Stern Show - 04.01.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 04.01.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15965027/Howard-Stern-Show---04-01-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/15965027/Howard-Stern-Show---04-01-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 04.01.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+04.02.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/591bd6a55001effd74b736aa42e7f2266643d813/Howard+Stern+Show+-+04.02.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+04.02.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -218,24 +298,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/591bd6a55001effd74b736aa42e7f2266643d813/Howard+Stern+Show+-+04.02.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15965423/Howard-Stern-Show---04-02-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:591bd6a55001effd74b736aa42e7f2266643d813&amp;dn=Howard Stern Show - 04.02.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 04.02.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15965423/Howard-Stern-Show---04-02-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/15965423/Howard-Stern-Show---04-02-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 04.02.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+04.26.2007+Daddy+or+Dummy-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/bbf9ee663e2e6bfec4b029d25052eb3b70f36b64/Howard+Stern+Special+04.26.2007+Daddy+or+Dummy-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+04.26.2007+Daddy+or+Dummy-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -243,24 +323,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/bbf9ee663e2e6bfec4b029d25052eb3b70f36b64/Howard+Stern+Special+04.26.2007+Daddy+or+Dummy-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15966881/Howard-Stern-Special-04-26-2007-Daddy-or-Dummy-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:bbf9ee663e2e6bfec4b029d25052eb3b70f36b64&amp;dn=Howard Stern Special 04.26.2007 Daddy or Dummy-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 04.26.2007 Daddy or Dummy-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15966881/Howard-Stern-Special-04-26-2007-Daddy-or-Dummy-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15966881/Howard-Stern-Special-04-26-2007-Daddy-or-Dummy-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 04.26.2007 Daddy or Dummy-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+04.01.2013+AGT+101+Prank-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/51d318f55c596a5966e96891b149cdf4504af281/Howard+Stern+Special+04.01.2013+AGT+101+Prank-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+04.01.2013+AGT+101+Prank-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -268,24 +348,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/51d318f55c596a5966e96891b149cdf4504af281/Howard+Stern+Special+04.01.2013+AGT+101+Prank-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15966890/Howard-Stern-Special-04-01-2013-AGT-101-Prank-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:51d318f55c596a5966e96891b149cdf4504af281&amp;dn=Howard Stern Special 04.01.2013 AGT 101 Prank-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 04.01.2013 AGT 101 Prank-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15966890/Howard-Stern-Special-04-01-2013-AGT-101-Prank-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15966890/Howard-Stern-Special-04-01-2013-AGT-101-Prank-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 04.01.2013 AGT 101 Prank-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+04.01.2004+Cross+%26amp%3Bamp+Lopez+Prank-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/441c92966c1837318a987c6406c11c929d493205/Howard+Stern+Special+04.01.2004+Cross+%26amp%3Bamp+Lopez+Prank-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+04.01.2004+Cross+%26amp%3Bamp+Lopez+Prank-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -293,24 +373,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/441c92966c1837318a987c6406c11c929d493205/Howard+Stern+Special+04.01.2004+Cross+%26amp%3Bamp+Lopez+Prank-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15966895/Howard-Stern-Special-04-01-2004-Cross--amp-amp-amp-Lopez-Prank-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:441c92966c1837318a987c6406c11c929d493205&amp;dn=Howard Stern Special 04.01.2004 Cross &amp;amp Lopez Prank-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 04.01.2004 Cross &amp;amp Lopez Prank-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15966895/Howard-Stern-Special-04-01-2004-Cross--amp-amp-amp-Lopez-Prank-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15966895/Howard-Stern-Special-04-01-2004-Cross--amp-amp-amp-Lopez-Prank-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 04.01.2004 Cross &amp;amp Lopez Prank-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+04.03.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/53bd4a59ba21bd6934687d2ffa1e4324dd3db29a/Howard+Stern+Show+-+04.03.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+04.03.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -318,24 +398,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/53bd4a59ba21bd6934687d2ffa1e4324dd3db29a/Howard+Stern+Show+-+04.03.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15968678/Howard-Stern-Show---04-03-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:53bd4a59ba21bd6934687d2ffa1e4324dd3db29a&amp;dn=Howard Stern Show - 04.03.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 04.03.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15968678/Howard-Stern-Show---04-03-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/15968678/Howard-Stern-Show---04-03-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 04.03.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Sternthology+04.08.2024-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/24e196fb92b5ddc2b313595871777ea2bc05ee54/Howard+Stern+Sternthology+04.08.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Sternthology+04.08.2024-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -343,24 +423,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/24e196fb92b5ddc2b313595871777ea2bc05ee54/Howard+Stern+Sternthology+04.08.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15977673/Howard-Stern-Sternthology-04-08-2024-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:24e196fb92b5ddc2b313595871777ea2bc05ee54&amp;dn=Howard Stern Sternthology 04.08.2024-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Sternthology 04.08.2024-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15977673/Howard-Stern-Sternthology-04-08-2024-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15977673/Howard-Stern-Sternthology-04-08-2024-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Sternthology 04.08.2024-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+04.08.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/eb663d5b8a16844c5c1da0df8eb549a7e5d5424f/Howard+Stern+Show+-+04.08.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+04.08.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -368,24 +448,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/eb663d5b8a16844c5c1da0df8eb549a7e5d5424f/Howard+Stern+Show+-+04.08.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15978733/Howard-Stern-Show---04-08-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:eb663d5b8a16844c5c1da0df8eb549a7e5d5424f&amp;dn=Howard Stern Show - 04.08.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 04.08.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15978733/Howard-Stern-Show---04-08-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/15978733/Howard-Stern-Show---04-08-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 04.08.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+04.09.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/bb7f330b372622eb410d8a7b044f511ba1c1a992/Howard+Stern+Show+-+04.09.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+04.09.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -393,24 +473,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/bb7f330b372622eb410d8a7b044f511ba1c1a992/Howard+Stern+Show+-+04.09.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15979280/Howard-Stern-Show---04-09-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:bb7f330b372622eb410d8a7b044f511ba1c1a992&amp;dn=Howard Stern Show - 04.09.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 04.09.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15979280/Howard-Stern-Show---04-09-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/15979280/Howard-Stern-Show---04-09-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 04.09.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+04.10.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/9a28253764aaf8537229d42591f7d11871a30ea6/Howard+Stern+Show+-+04.10.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+04.10.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -418,24 +498,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/9a28253764aaf8537229d42591f7d11871a30ea6/Howard+Stern+Show+-+04.10.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15981834/Howard-Stern-Show---04-10-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:9a28253764aaf8537229d42591f7d11871a30ea6&amp;dn=Howard Stern Show - 04.10.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 04.10.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15981834/Howard-Stern-Show---04-10-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/15981834/Howard-Stern-Show---04-10-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 04.10.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Sternthology+04.09.2024-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/491af559489facf42812edb5de9b36468487a4a3/Howard+Stern+Sternthology+04.09.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Sternthology+04.09.2024-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -443,24 +523,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/491af559489facf42812edb5de9b36468487a4a3/Howard+Stern+Sternthology+04.09.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15983774/Howard-Stern-Sternthology-04-09-2024-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:491af559489facf42812edb5de9b36468487a4a3&amp;dn=Howard Stern Sternthology 04.09.2024-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Sternthology 04.09.2024-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15983774/Howard-Stern-Sternthology-04-09-2024-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15983774/Howard-Stern-Sternthology-04-09-2024-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Sternthology 04.09.2024-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+04.01.1993+Butt+Bongo+Prank-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/2dc69e4df170ab7c27f48226735b4fe98b324b8a/Howard+Stern+Special+04.01.1993+Butt+Bongo+Prank-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+04.01.1993+Butt+Bongo+Prank-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -468,24 +548,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/2dc69e4df170ab7c27f48226735b4fe98b324b8a/Howard+Stern+Special+04.01.1993+Butt+Bongo+Prank-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15987659/Howard-Stern-Special-04-01-1993-Butt-Bongo-Prank-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:2dc69e4df170ab7c27f48226735b4fe98b324b8a&amp;dn=Howard Stern Special 04.01.1993 Butt Bongo Prank-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 04.01.1993 Butt Bongo Prank-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15987659/Howard-Stern-Special-04-01-1993-Butt-Bongo-Prank-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15987659/Howard-Stern-Special-04-01-1993-Butt-Bongo-Prank-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 04.01.1993 Butt Bongo Prank-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+03.17.2008+An+Evening+With+Mark+The+Bagger-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/1839d494650ab14cb277fa71e691504cd8c53b15/Howard+Stern+Special+03.17.2008+An+Evening+With+Mark+The+Bagger-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+03.17.2008+An+Evening+With+Mark+The+Bagger-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -493,24 +573,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/1839d494650ab14cb277fa71e691504cd8c53b15/Howard+Stern+Special+03.17.2008+An+Evening+With+Mark+The+Bagger-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15987665/Howard-Stern-Special-03-17-2008-An-Evening-With-Mark-The-Bagger-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:1839d494650ab14cb277fa71e691504cd8c53b15&amp;dn=Howard Stern Special 03.17.2008 An Evening With Mark The Bagger-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 03.17.2008 An Evening With Mark The Bagger-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15987665/Howard-Stern-Special-03-17-2008-An-Evening-With-Mark-The-Bagger-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15987665/Howard-Stern-Special-03-17-2008-An-Evening-With-Mark-The-Bagger-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 03.17.2008 An Evening With Mark The Bagger-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+History+04.15.2024-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/cfa61a36c671637dae4efbc46fc7ae7b10266fc8/Howard+Stern+History+04.15.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+History+04.15.2024-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -518,24 +598,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/cfa61a36c671637dae4efbc46fc7ae7b10266fc8/Howard+Stern+History+04.15.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15988543/Howard-Stern-History-04-15-2024-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:cfa61a36c671637dae4efbc46fc7ae7b10266fc8&amp;dn=Howard Stern History 04.15.2024-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern History 04.15.2024-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15988543/Howard-Stern-History-04-15-2024-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15988543/Howard-Stern-History-04-15-2024-TS-mp3--Dbaum2-</link>
       <description>Howard Stern History 04.15.2024-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+04.19.2017+Ronnie+%26amp%3Bamp+Stephanie+Embedded-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/c7443384664368f149c51f429fca2ceec1151452/Howard+Stern+Special+04.19.2017+Ronnie+%26amp%3Bamp+Stephanie+Embedded-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+04.19.2017+Ronnie+%26amp%3Bamp+Stephanie+Embedded-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -543,24 +623,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/c7443384664368f149c51f429fca2ceec1151452/Howard+Stern+Special+04.19.2017+Ronnie+%26amp%3Bamp+Stephanie+Embedded-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15989471/Howard-Stern-Special-04-19-2017-Ronnie--amp-amp-amp-Stephanie-Embedded-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:c7443384664368f149c51f429fca2ceec1151452&amp;dn=Howard Stern Special 04.19.2017 Ronnie &amp;amp Stephanie Embedded-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 04.19.2017 Ronnie &amp;amp Stephanie Embedded-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15989471/Howard-Stern-Special-04-19-2017-Ronnie--amp-amp-amp-Stephanie-Embedded-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15989471/Howard-Stern-Special-04-19-2017-Ronnie--amp-amp-amp-Stephanie-Embedded-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 04.19.2017 Ronnie &amp;amp Stephanie Embedded-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+-+04.16.2024+Storytellers+-+Fights-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/b5a5d521a951bbdfa33e1c547a76d06aa1a6590e/Howard+Stern+Special+-+04.16.2024+Storytellers+-+Fights-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+-+04.16.2024+Storytellers+-+Fights-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -568,24 +648,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/b5a5d521a951bbdfa33e1c547a76d06aa1a6590e/Howard+Stern+Special+-+04.16.2024+Storytellers+-+Fights-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15991167/Howard-Stern-Special---04-16-2024-Storytellers---Fights-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:b5a5d521a951bbdfa33e1c547a76d06aa1a6590e&amp;dn=Howard Stern Special - 04.16.2024 Storytellers - Fights-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special - 04.16.2024 Storytellers - Fights-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15991167/Howard-Stern-Special---04-16-2024-Storytellers---Fights-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15991167/Howard-Stern-Special---04-16-2024-Storytellers---Fights-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special - 04.16.2024 Storytellers - Fights-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+04.05.2017+Wolfie+At+Wing+Bowl-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/e5cbe8854913ae35370eaf144ace98c59f10cb3c/Howard+Stern+Special+04.05.2017+Wolfie+At+Wing+Bowl-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+04.05.2017+Wolfie+At+Wing+Bowl-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -593,24 +673,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/e5cbe8854913ae35370eaf144ace98c59f10cb3c/Howard+Stern+Special+04.05.2017+Wolfie+At+Wing+Bowl-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15992610/Howard-Stern-Special-04-05-2017-Wolfie-At-Wing-Bowl-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:e5cbe8854913ae35370eaf144ace98c59f10cb3c&amp;dn=Howard Stern Special 04.05.2017 Wolfie At Wing Bowl-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 04.05.2017 Wolfie At Wing Bowl-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15992610/Howard-Stern-Special-04-05-2017-Wolfie-At-Wing-Bowl-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15992610/Howard-Stern-Special-04-05-2017-Wolfie-At-Wing-Bowl-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 04.05.2017 Wolfie At Wing Bowl-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+-+04.17.2024+Storytellers+-+Sex+Stories-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/f6f78667b4171d52f73e96172c04316f06446ebf/Howard+Stern+Special+-+04.17.2024+Storytellers+-+Sex+Stories-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+-+04.17.2024+Storytellers+-+Sex+Stories-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -618,24 +698,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/f6f78667b4171d52f73e96172c04316f06446ebf/Howard+Stern+Special+-+04.17.2024+Storytellers+-+Sex+Stories-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15992613/Howard-Stern-Special---04-17-2024-Storytellers---Sex-Stories-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:f6f78667b4171d52f73e96172c04316f06446ebf&amp;dn=Howard Stern Special - 04.17.2024 Storytellers - Sex Stories-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special - 04.17.2024 Storytellers - Sex Stories-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15992613/Howard-Stern-Special---04-17-2024-Storytellers---Sex-Stories-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15992613/Howard-Stern-Special---04-17-2024-Storytellers---Sex-Stories-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special - 04.17.2024 Storytellers - Sex Stories-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+-+04.18.2024+Storytellers+-+Advice-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/98e44533a69bb4446e25470ac4ff1243ccfedf5e/Howard+Stern+Special+-+04.18.2024+Storytellers+-+Advice-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+-+04.18.2024+Storytellers+-+Advice-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -643,24 +723,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/98e44533a69bb4446e25470ac4ff1243ccfedf5e/Howard+Stern+Special+-+04.18.2024+Storytellers+-+Advice-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15994315/Howard-Stern-Special---04-18-2024-Storytellers---Advice-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:98e44533a69bb4446e25470ac4ff1243ccfedf5e&amp;dn=Howard Stern Special - 04.18.2024 Storytellers - Advice-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special - 04.18.2024 Storytellers - Advice-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15994315/Howard-Stern-Special---04-18-2024-Storytellers---Advice-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15994315/Howard-Stern-Special---04-18-2024-Storytellers---Advice-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special - 04.18.2024 Storytellers - Advice-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+04.24.1998+Smallest+Penis+Contest-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/64283726d883ccf3d10984288be8eecfc9058c56/Howard+Stern+Special+04.24.1998+Smallest+Penis+Contest-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+04.24.1998+Smallest+Penis+Contest-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -668,24 +748,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/64283726d883ccf3d10984288be8eecfc9058c56/Howard+Stern+Special+04.24.1998+Smallest+Penis+Contest-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15996177/Howard-Stern-Special-04-24-1998-Smallest-Penis-Contest-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:64283726d883ccf3d10984288be8eecfc9058c56&amp;dn=Howard Stern Special 04.24.1998 Smallest Penis Contest-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 04.24.1998 Smallest Penis Contest-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15996177/Howard-Stern-Special-04-24-1998-Smallest-Penis-Contest-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15996177/Howard-Stern-Special-04-24-1998-Smallest-Penis-Contest-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 04.24.1998 Smallest Penis Contest-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+-+04.19.2024+Storytellers+-+Cheating-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/59799ccd6a934b4ca9346b928c5eba64392e7e6d/Howard+Stern+Special+-+04.19.2024+Storytellers+-+Cheating-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+-+04.19.2024+Storytellers+-+Cheating-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -693,24 +773,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/59799ccd6a934b4ca9346b928c5eba64392e7e6d/Howard+Stern+Special+-+04.19.2024+Storytellers+-+Cheating-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15996183/Howard-Stern-Special---04-19-2024-Storytellers---Cheating-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:59799ccd6a934b4ca9346b928c5eba64392e7e6d&amp;dn=Howard Stern Special - 04.19.2024 Storytellers - Cheating-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special - 04.19.2024 Storytellers - Cheating-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15996183/Howard-Stern-Special---04-19-2024-Storytellers---Cheating-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15996183/Howard-Stern-Special---04-19-2024-Storytellers---Cheating-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special - 04.19.2024 Storytellers - Cheating-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+04.30.2007+Gary%26%23039%3Bs+Dinner+Party-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/afa8f7e97e2ea32bcc4fe681d92c0c3f9e856d96/Howard+Stern+Special+04.30.2007+Gary%26%23039%3Bs+Dinner+Party-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+04.30.2007+Gary%26%23039%3Bs+Dinner+Party-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -718,24 +798,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/afa8f7e97e2ea32bcc4fe681d92c0c3f9e856d96/Howard+Stern+Special+04.30.2007+Gary%26%23039%3Bs+Dinner+Party-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15997623/Howard-Stern-Special-04-30-2007-Gary-amp--039-s-Dinner-Party-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:afa8f7e97e2ea32bcc4fe681d92c0c3f9e856d96&amp;dn=Howard Stern Special 04.30.2007 Gary's Dinner Party-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 04.30.2007 Gary's Dinner Party-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15997623/Howard-Stern-Special-04-30-2007-Gary-amp--039-s-Dinner-Party-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15997623/Howard-Stern-Special-04-30-2007-Gary-amp--039-s-Dinner-Party-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 04.30.2007 Gary's Dinner Party-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+04.06.2000+Hank+%26amp%3Bamp+Son+of+the+Beach-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/1ef1aa49a648c91457d4be8399d2401d6468581e/Howard+Stern+Special+04.06.2000+Hank+%26amp%3Bamp+Son+of+the+Beach-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+04.06.2000+Hank+%26amp%3Bamp+Son+of+the+Beach-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -743,24 +823,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/1ef1aa49a648c91457d4be8399d2401d6468581e/Howard+Stern+Special+04.06.2000+Hank+%26amp%3Bamp+Son+of+the+Beach-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/15997638/Howard-Stern-Special-04-06-2000-Hank--amp-amp-amp-Son-of-the-Beach-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:1ef1aa49a648c91457d4be8399d2401d6468581e&amp;dn=Howard Stern Special 04.06.2000 Hank &amp;amp Son of the Beach-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 04.06.2000 Hank &amp;amp Son of the Beach-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/15997638/Howard-Stern-Special-04-06-2000-Hank--amp-amp-amp-Son-of-the-Beach-TS-mp3--Dbaum2-</link>
+      <link>/torrent/15997638/Howard-Stern-Special-04-06-2000-Hank--amp-amp-amp-Son-of-the-Beach-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 04.06.2000 Hank &amp;amp Son of the Beach-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+04.23.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/b1743d9f9f18bc0179ffec4043f5e88b6e6433d0/Howard+Stern+Show+-+04.23.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+04.23.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -768,24 +848,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/b1743d9f9f18bc0179ffec4043f5e88b6e6433d0/Howard+Stern+Show+-+04.23.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16002629/Howard-Stern-Show---04-23-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:b1743d9f9f18bc0179ffec4043f5e88b6e6433d0&amp;dn=Howard Stern Show - 04.23.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 04.23.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16002629/Howard-Stern-Show---04-23-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/16002629/Howard-Stern-Show---04-23-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 04.23.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+04.24.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/1e196ec6059231eb9f0df8d616febbcc6f75121a/Howard+Stern+Show+-+04.24.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+04.24.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -793,24 +873,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/1e196ec6059231eb9f0df8d616febbcc6f75121a/Howard+Stern+Show+-+04.24.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16004279/Howard-Stern-Show---04-24-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:1e196ec6059231eb9f0df8d616febbcc6f75121a&amp;dn=Howard Stern Show - 04.24.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 04.24.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16004279/Howard-Stern-Show---04-24-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/16004279/Howard-Stern-Show---04-24-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 04.24.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+04.29.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/eb1db250c332d92dd959d71a34ea67f4c087206f/Howard+Stern+Show+-+04.29.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+04.29.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -818,24 +898,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/eb1db250c332d92dd959d71a34ea67f4c087206f/Howard+Stern+Show+-+04.29.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16013350/Howard-Stern-Show---04-29-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:eb1db250c332d92dd959d71a34ea67f4c087206f&amp;dn=Howard Stern Show - 04.29.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 04.29.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16013350/Howard-Stern-Show---04-29-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/16013350/Howard-Stern-Show---04-29-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 04.29.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+History+05.01.2024-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/30a7e9978d05b2a987c00ed2aedc1f6b2e9c3b24/Howard+Stern+History+05.01.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+History+05.01.2024-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -843,24 +923,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/30a7e9978d05b2a987c00ed2aedc1f6b2e9c3b24/Howard+Stern+History+05.01.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16013412/Howard-Stern-History-05-01-2024-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:30a7e9978d05b2a987c00ed2aedc1f6b2e9c3b24&amp;dn=Howard Stern History 05.01.2024-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern History 05.01.2024-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16013412/Howard-Stern-History-05-01-2024-TS-mp3--Dbaum2-</link>
+      <link>/torrent/16013412/Howard-Stern-History-05-01-2024-TS-mp3--Dbaum2-</link>
       <description>Howard Stern History 05.01.2024-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+04.30.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/cdc4994b30f42c93e83cd0972db9f1a38063650f/Howard+Stern+Show+-+04.30.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+04.30.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -868,24 +948,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/cdc4994b30f42c93e83cd0972db9f1a38063650f/Howard+Stern+Show+-+04.30.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16013430/Howard-Stern-Show---04-30-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:cdc4994b30f42c93e83cd0972db9f1a38063650f&amp;dn=Howard Stern Show - 04.30.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 04.30.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16013430/Howard-Stern-Show---04-30-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/16013430/Howard-Stern-Show---04-30-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 04.30.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+04.26.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/d7dc63cab76f94bbce01ea42a50bba9a8038ee51/Howard+Stern+Show+-+04.26.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+04.26.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -893,24 +973,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/d7dc63cab76f94bbce01ea42a50bba9a8038ee51/Howard+Stern+Show+-+04.26.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16013435/Howard-Stern-Show---04-26-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:d7dc63cab76f94bbce01ea42a50bba9a8038ee51&amp;dn=Howard Stern Show - 04.26.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 04.26.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16013435/Howard-Stern-Show---04-26-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/16013435/Howard-Stern-Show---04-26-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 04.26.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+04.30.2008+Beetlejuice+vs+Iron+Sheik-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/df44a949311c072211bb76688d51605147ae7244/Howard+Stern+Special+04.30.2008+Beetlejuice+vs+Iron+Sheik-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+04.30.2008+Beetlejuice+vs+Iron+Sheik-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -918,24 +998,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/df44a949311c072211bb76688d51605147ae7244/Howard+Stern+Special+04.30.2008+Beetlejuice+vs+Iron+Sheik-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16014302/Howard-Stern-Special-04-30-2008-Beetlejuice-vs-Iron-Sheik-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:df44a949311c072211bb76688d51605147ae7244&amp;dn=Howard Stern Special 04.30.2008 Beetlejuice vs Iron Sheik-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 04.30.2008 Beetlejuice vs Iron Sheik-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16014302/Howard-Stern-Special-04-30-2008-Beetlejuice-vs-Iron-Sheik-TS-mp3--Dbaum2-</link>
+      <link>/torrent/16014302/Howard-Stern-Special-04-30-2008-Beetlejuice-vs-Iron-Sheik-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 04.30.2008 Beetlejuice vs Iron Sheik-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+05.01.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/9d91f9b5768fd09268156def5e637c5ea6de46ba/Howard+Stern+Show+-+05.01.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+05.01.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -943,24 +1023,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/9d91f9b5768fd09268156def5e637c5ea6de46ba/Howard+Stern+Show+-+05.01.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16014305/Howard-Stern-Show---05-01-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:9d91f9b5768fd09268156def5e637c5ea6de46ba&amp;dn=Howard Stern Show - 05.01.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 05.01.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16014305/Howard-Stern-Show---05-01-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/16014305/Howard-Stern-Show---05-01-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 05.01.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+05.06.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/f9f0fc90ed4efd150fafc3f683e6fe5a68e8c1ab/Howard+Stern+Show+-+05.06.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+05.06.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -968,24 +1048,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/f9f0fc90ed4efd150fafc3f683e6fe5a68e8c1ab/Howard+Stern+Show+-+05.06.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16021494/Howard-Stern-Show---05-06-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:f9f0fc90ed4efd150fafc3f683e6fe5a68e8c1ab&amp;dn=Howard Stern Show - 05.06.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 05.06.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16021494/Howard-Stern-Show---05-06-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/16021494/Howard-Stern-Show---05-06-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 05.06.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+05.07.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/f2099a78979f20d6d99a15f78274602cd8af37c2/Howard+Stern+Show+-+05.07.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+05.07.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -993,24 +1073,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/f2099a78979f20d6d99a15f78274602cd8af37c2/Howard+Stern+Show+-+05.07.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16021810/Howard-Stern-Show---05-07-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:f2099a78979f20d6d99a15f78274602cd8af37c2&amp;dn=Howard Stern Show - 05.07.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 05.07.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16021810/Howard-Stern-Show---05-07-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/16021810/Howard-Stern-Show---05-07-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 05.07.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+05.08.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/590233c3d9ab99384bf86e387b2243992cc493d3/Howard+Stern+Show+-+05.08.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+05.08.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -1018,24 +1098,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/590233c3d9ab99384bf86e387b2243992cc493d3/Howard+Stern+Show+-+05.08.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16023290/Howard-Stern-Show---05-08-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:590233c3d9ab99384bf86e387b2243992cc493d3&amp;dn=Howard Stern Show - 05.08.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 05.08.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16023290/Howard-Stern-Show---05-08-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/16023290/Howard-Stern-Show---05-08-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 05.08.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Special+07.06.1989+Biker+Richard+Simmons-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/dfdfa5a009ca3c317d40eb9c699370e15ff5a154/Howard+Stern+Special+07.06.1989+Biker+Richard+Simmons-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Special+07.06.1989+Biker+Richard+Simmons-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -1043,24 +1123,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/dfdfa5a009ca3c317d40eb9c699370e15ff5a154/Howard+Stern+Special+07.06.1989+Biker+Richard+Simmons-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16024011/Howard-Stern-Special-07-06-1989-Biker-Richard-Simmons-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:dfdfa5a009ca3c317d40eb9c699370e15ff5a154&amp;dn=Howard Stern Special 07.06.1989 Biker Richard Simmons-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Special 07.06.1989 Biker Richard Simmons-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16024011/Howard-Stern-Special-07-06-1989-Biker-Richard-Simmons-TS-mp3--Dbaum2-</link>
+      <link>/torrent/16024011/Howard-Stern-Special-07-06-1989-Biker-Richard-Simmons-TS-mp3--Dbaum2-</link>
       <description>Howard Stern Special 07.06.1989 Biker Richard Simmons-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+History+05.02.2024-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/55dcd6edfb4e9c49092acb4828294038e7b5119f/Howard+Stern+History+05.02.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+History+05.02.2024-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -1068,24 +1148,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/55dcd6edfb4e9c49092acb4828294038e7b5119f/Howard+Stern+History+05.02.2024-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16024013/Howard-Stern-History-05-02-2024-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:55dcd6edfb4e9c49092acb4828294038e7b5119f&amp;dn=Howard Stern History 05.02.2024-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern History 05.02.2024-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16024013/Howard-Stern-History-05-02-2024-TS-mp3--Dbaum2-</link>
+      <link>/torrent/16024013/Howard-Stern-History-05-02-2024-TS-mp3--Dbaum2-</link>
       <description>Howard Stern History 05.02.2024-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+05.15.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/191ba6c5e5581bde2e50122f8fab0223ba35cc91/Howard+Stern+Show+-+05.15.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+05.15.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -1093,24 +1173,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/191ba6c5e5581bde2e50122f8fab0223ba35cc91/Howard+Stern+Show+-+05.15.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16032883/Howard-Stern-Show---05-15-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:191ba6c5e5581bde2e50122f8fab0223ba35cc91&amp;dn=Howard Stern Show - 05.15.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 05.15.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16032883/Howard-Stern-Show---05-15-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/16032883/Howard-Stern-Show---05-15-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 05.15.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Howard+Stern+Show+-+05.14.2024-TrumpSux.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/1970abb1065e53de0825c71761534d07d391995c/Howard+Stern+Show+-+05.14.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>Howard+Stern+Show+-+05.14.2024-TrumpSux.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -1118,24 +1198,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/1970abb1065e53de0825c71761534d07d391995c/Howard+Stern+Show+-+05.14.2024-TrumpSux.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16032895/Howard-Stern-Show---05-14-2024-TrumpSux-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:1970abb1065e53de0825c71761534d07d391995c&amp;dn=Howard Stern Show - 05.14.2024-TrumpSux.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Howard Stern Show - 05.14.2024-TrumpSux.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16032895/Howard-Stern-Show---05-14-2024-TrumpSux-mp3--Dbaum2-</link>
+      <link>/torrent/16032895/Howard-Stern-Show---05-14-2024-TrumpSux-mp3--Dbaum2-</link>
       <description>Howard Stern Show - 05.14.2024-TrumpSux.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Stern+Show+Origins+05.20.2024+Hank+%26amp%3Bamp+Mariann-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/0e48107db5b2d30ed707889a7f0a346ade91126d/Stern+Show+Origins+05.20.2024+Hank+%26amp%3Bamp+Mariann-TS.mp3+%5BDbaum2%5D</link>
-      <description>Stern+Show+Origins+05.20.2024+Hank+%26amp%3Bamp+Mariann-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -1143,24 +1223,49 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/0e48107db5b2d30ed707889a7f0a346ade91126d/Stern+Show+Origins+05.20.2024+Hank+%26amp%3Bamp+Mariann-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16037875/Howard-Stern-Show-2024-05-14-Benny-Blanco-720p--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:0e48107db5b2d30ed707889a7f0a346ade91126d&amp;dn=Stern Show Origins 05.20.2024 Hank &amp;amp Mariann-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
+    </item>
+    <item>
+      <title>Howard.Stern.Show.2024.05.14.Benny.Blanco.720p [Dbaum2]</title>
+      <link>/torrent/16037875/Howard-Stern-Show-2024-05-14-Benny-Blanco-720p--Dbaum2-</link>
+      <description>Howard.Stern.Show.2024.05.14.Benny.Blanco.720p [Dbaum2]</description>
+    </item>
+    <item>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
+    </item>
+    <item>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
+    </item>
+    <item>
+      <title>0</title>
+      <link>/torrent/16040931/Stern-Show-Origins-05-20-2024-Hank--amp-amp-amp-Mariann-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
+    </item>
+    <item>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Stern Show Origins 05.20.2024 Hank &amp;amp Mariann-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16040931/Stern-Show-Origins-05-20-2024-Hank--amp-amp-amp-Mariann-TS-mp3--Dbaum2-</link>
+      <link>/torrent/16040931/Stern-Show-Origins-05-20-2024-Hank--amp-amp-amp-Mariann-TS-mp3--Dbaum2-</link>
       <description>Stern Show Origins 05.20.2024 Hank &amp;amp Mariann-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Stern+Show+Origins+05.21.2024+Sour+Shoes-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/b95e01b4626ecc05c7c1db2e278b6709467af10a/Stern+Show+Origins+05.21.2024+Sour+Shoes-TS.mp3+%5BDbaum2%5D</link>
-      <description>Stern+Show+Origins+05.21.2024+Sour+Shoes-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -1168,24 +1273,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/b95e01b4626ecc05c7c1db2e278b6709467af10a/Stern+Show+Origins+05.21.2024+Sour+Shoes-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16042349/Stern-Show-Origins-05-21-2024-Sour-Shoes-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:b95e01b4626ecc05c7c1db2e278b6709467af10a&amp;dn=Stern Show Origins 05.21.2024 Sour Shoes-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Stern Show Origins 05.21.2024 Sour Shoes-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16042349/Stern-Show-Origins-05-21-2024-Sour-Shoes-TS-mp3--Dbaum2-</link>
+      <link>/torrent/16042349/Stern-Show-Origins-05-21-2024-Sour-Shoes-TS-mp3--Dbaum2-</link>
       <description>Stern Show Origins 05.21.2024 Sour Shoes-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Stern+Show+Origins+05.23.2024+Fred%26%23039%3Bs+Name-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/dea75a7a8e1c4dbd8a14f34c42d4948616151214/Stern+Show+Origins+05.23.2024+Fred%26%23039%3Bs+Name-TS.mp3+%5BDbaum2%5D</link>
-      <description>Stern+Show+Origins+05.23.2024+Fred%26%23039%3Bs+Name-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -1193,24 +1298,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/dea75a7a8e1c4dbd8a14f34c42d4948616151214/Stern+Show+Origins+05.23.2024+Fred%26%23039%3Bs+Name-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16044272/Stern-Show-Origins-05-23-2024-Fred-amp--039-s-Name-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:dea75a7a8e1c4dbd8a14f34c42d4948616151214&amp;dn=Stern Show Origins 05.23.2024 Fred's Name-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Stern Show Origins 05.23.2024 Fred's Name-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16044272/Stern-Show-Origins-05-23-2024-Fred-amp--039-s-Name-TS-mp3--Dbaum2-</link>
+      <link>/torrent/16044272/Stern-Show-Origins-05-23-2024-Fred-amp--039-s-Name-TS-mp3--Dbaum2-</link>
       <description>Stern Show Origins 05.23.2024 Fred's Name-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Stern+Show+Origins+05.24.2024+Ronnie+%26amp%3Bamp+Sal-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/11dcf643b6f5b694c301b577f070b1a77f89fd63/Stern+Show+Origins+05.24.2024+Ronnie+%26amp%3Bamp+Sal-TS.mp3+%5BDbaum2%5D</link>
-      <description>Stern+Show+Origins+05.24.2024+Ronnie+%26amp%3Bamp+Sal-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -1218,24 +1323,24 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/11dcf643b6f5b694c301b577f070b1a77f89fd63/Stern+Show+Origins+05.24.2024+Ronnie+%26amp%3Bamp+Sal-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16046525/Stern-Show-Origins-05-24-2024-Ronnie--amp-amp-amp-Sal-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:11dcf643b6f5b694c301b577f070b1a77f89fd63&amp;dn=Stern Show Origins 05.24.2024 Ronnie &amp;amp Sal-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Stern Show Origins 05.24.2024 Ronnie &amp;amp Sal-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16046525/Stern-Show-Origins-05-24-2024-Ronnie--amp-amp-amp-Sal-TS-mp3--Dbaum2-</link>
+      <link>/torrent/16046525/Stern-Show-Origins-05-24-2024-Ronnie--amp-amp-amp-Sal-TS-mp3--Dbaum2-</link>
       <description>Stern Show Origins 05.24.2024 Ronnie &amp;amp Sal-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Stern+Show+Origins+05.23.2024+Gary%26%23039%3Bs+Debut-TS.mp3+%5BDbaum2%5D</title>
-      <link>https://watercache.nanobytes.org/get/95b148860abea1a4c4d50475cc1b9cbccdad4ab4/Stern+Show+Origins+05.23.2024+Gary%26%23039%3Bs+Debut-TS.mp3+%5BDbaum2%5D</link>
-      <description>Stern+Show+Origins+05.23.2024+Gary%26%23039%3Bs+Debut-TS.mp3+%5BDbaum2%5D</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
       <title>indexFroggy</title>
@@ -1243,54 +1348,554 @@
       <description>indexFroggy</description>
     </item>
     <item>
-      <title>torrent</title>
-      <link>https://watercache.nanobytes.org/get/95b148860abea1a4c4d50475cc1b9cbccdad4ab4/Stern+Show+Origins+05.23.2024+Gary%26%23039%3Bs+Debut-TS.mp3+%5BDbaum2%5D</link>
-      <description>torrent</description>
+      <title>0</title>
+      <link>/torrent/16046527/Stern-Show-Origins-05-23-2024-Gary-amp--039-s-Debut-TS-mp3--Dbaum2-#usercomments</link>
+      <description>0</description>
     </item>
     <item>
-      <title>magnet</title>
-      <link>magnet:?xt=urn:btih:95b148860abea1a4c4d50475cc1b9cbccdad4ab4&amp;dn=Stern Show Origins 05.23.2024 Gary's Debut-TS.mp3 [Dbaum2]&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce</link>
-      <description>magnet</description>
+      <title>indexFroggy</title>
+      <link>/profile/indexFroggy</link>
+      <description>indexFroggy</description>
     </item>
     <item>
       <title>Stern Show Origins 05.23.2024 Gary's Debut-TS.mp3 [Dbaum2]</title>
-      <link>https://torrentgalaxy.to/torrent/16046527/Stern-Show-Origins-05-23-2024-Gary-amp--039-s-Debut-TS-mp3--Dbaum2-</link>
+      <link>/torrent/16046527/Stern-Show-Origins-05-23-2024-Gary-amp--039-s-Debut-TS-mp3--Dbaum2-</link>
       <description>Stern Show Origins 05.23.2024 Gary's Debut-TS.mp3 [Dbaum2]</description>
     </item>
     <item>
-      <title>Sfeed</title>
-      <link>?action=display&amp;bridge=TorrentGalaxyBridge&amp;search=mp3+%5BDbaum2%5D&amp;lang=0&amp;format=Sfeed</link>
-      <description>Sfeed</description>
+      <title>Other : Audio</title>
+      <link>/torrents.php?cat=17</link>
+      <description>Other : Audio</description>
     </item>
     <item>
-      <title>Plaintext</title>
-      <link>?action=display&amp;bridge=TorrentGalaxyBridge&amp;search=mp3+%5BDbaum2%5D&amp;lang=0&amp;format=Plaintext</link>
-      <description>Plaintext</description>
+      <title>Next</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=1</link>
+      <description>Next</description>
     </item>
     <item>
-      <title>Mrss</title>
-      <link>?action=display&amp;bridge=TorrentGalaxyBridge&amp;search=mp3+%5BDbaum2%5D&amp;lang=0&amp;format=Mrss</link>
-      <description>Mrss</description>
+      <title>50</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=49</link>
+      <description>50</description>
     </item>
     <item>
-      <title>Json</title>
-      <link>?action=display&amp;bridge=TorrentGalaxyBridge&amp;search=mp3+%5BDbaum2%5D&amp;lang=0&amp;format=Json</link>
-      <description>Json</description>
+      <title>49</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=48</link>
+      <description>49</description>
     </item>
     <item>
-      <title>Atom</title>
-      <link>?action=display&amp;bridge=TorrentGalaxyBridge&amp;search=mp3+%5BDbaum2%5D&amp;lang=0&amp;format=Atom</link>
-      <description>Atom</description>
+      <title>48</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=47</link>
+      <description>48</description>
     </item>
     <item>
-      <title>← back to rss-bridge</title>
-      <link>./#bridge-TorrentGalaxyBridge</link>
-      <description>← back to rss-bridge</description>
+      <title>47</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=46</link>
+      <description>47</description>
     </item>
     <item>
-      <title>mp3 [Dbaum2] : Torrent Galaxy Bridge</title>
-      <link>https://torrentgalaxy.to/torrents.php?search=mp3+%5BDbaum2%5D&amp;lang=0</link>
-      <description>mp3 [Dbaum2] : Torrent Galaxy Bridge</description>
+      <title>46</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=45</link>
+      <description>46</description>
+    </item>
+    <item>
+      <title>5</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=4</link>
+      <description>5</description>
+    </item>
+    <item>
+      <title>4</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=3</link>
+      <description>4</description>
+    </item>
+    <item>
+      <title>3</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=2</link>
+      <description>3</description>
+    </item>
+    <item>
+      <title>2</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=1</link>
+      <description>2</description>
+    </item>
+    <item>
+      <title>1 (current)</title>
+      <link>/torrents.php?c17=1&amp;c17=1&amp;nox=1&amp;search=DBaum2&amp;sort=id&amp;order=desc&amp;page=0</link>
+      <description>1 (current)</description>
+    </item>
+    <item>
+      <title>Previous</title>
+      <link>#</link>
+      <description>Previous</description>
+    </item>
+    <item>
+      <title>here</title>
+      <link>/torrents.php</link>
+      <description>here</description>
+    </item>
+    <item>
+      <title>Nature</title>
+      <link>/torrents.php?genres[]=30#results</link>
+      <description>Nature</description>
+    </item>
+    <item>
+      <title>Reality-TV</title>
+      <link>/torrents.php?genres[]=29#results</link>
+      <description>Reality-TV</description>
+    </item>
+    <item>
+      <title>Adult</title>
+      <link>/torrents.php?genres[]=28#results</link>
+      <description>Adult</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>/torrents.php?genres[]=27#results</link>
+      <description>News</description>
+    </item>
+    <item>
+      <title>Game-Show</title>
+      <link>/torrents.php?genres[]=26#results</link>
+      <description>Game-Show</description>
+    </item>
+    <item>
+      <title>Talk-Show</title>
+      <link>/torrents.php?genres[]=25#results</link>
+      <description>Talk-Show</description>
+    </item>
+    <item>
+      <title>Film-Noir</title>
+      <link>/torrents.php?genres[]=24#results</link>
+      <description>Film-Noir</description>
+    </item>
+    <item>
+      <title>Animation</title>
+      <link>/torrents.php?genres[]=23#results</link>
+      <description>Animation</description>
+    </item>
+    <item>
+      <title>Sport</title>
+      <link>/torrents.php?genres[]=22#results</link>
+      <description>Sport</description>
+    </item>
+    <item>
+      <title>Fantasy</title>
+      <link>/torrents.php?genres[]=21#results</link>
+      <description>Fantasy</description>
+    </item>
+    <item>
+      <title>Western</title>
+      <link>/torrents.php?genres[]=20#results</link>
+      <description>Western</description>
+    </item>
+    <item>
+      <title>Musical</title>
+      <link>/torrents.php?genres[]=19#results</link>
+      <description>Musical</description>
+    </item>
+    <item>
+      <title>Family</title>
+      <link>/torrents.php?genres[]=18#results</link>
+      <description>Family</description>
+    </item>
+    <item>
+      <title>War</title>
+      <link>/torrents.php?genres[]=17#results</link>
+      <description>War</description>
+    </item>
+    <item>
+      <title>Adventure</title>
+      <link>/torrents.php?genres[]=16#results</link>
+      <description>Adventure</description>
+    </item>
+    <item>
+      <title>Thriller</title>
+      <link>/torrents.php?genres[]=15#results</link>
+      <description>Thriller</description>
+    </item>
+    <item>
+      <title>Sci-Fi</title>
+      <link>/torrents.php?genres[]=13#results</link>
+      <description>Sci-Fi</description>
+    </item>
+    <item>
+      <title>Romance</title>
+      <link>/torrents.php?genres[]=12#results</link>
+      <description>Romance</description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>/torrents.php?genres[]=11#results</link>
+      <description>History</description>
+    </item>
+    <item>
+      <title>Biography</title>
+      <link>/torrents.php?genres[]=10#results</link>
+      <description>Biography</description>
+    </item>
+    <item>
+      <title>Drama</title>
+      <link>/torrents.php?genres[]=9#results</link>
+      <description>Drama</description>
+    </item>
+    <item>
+      <title>Crime</title>
+      <link>/torrents.php?genres[]=8#results</link>
+      <description>Crime</description>
+    </item>
+    <item>
+      <title>Mystery</title>
+      <link>/torrents.php?genres[]=7#results</link>
+      <description>Mystery</description>
+    </item>
+    <item>
+      <title>Short</title>
+      <link>/torrents.php?genres[]=6#results</link>
+      <description>Short</description>
+    </item>
+    <item>
+      <title>Documentary</title>
+      <link>/torrents.php?genres[]=5#results</link>
+      <description>Documentary</description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>/torrents.php?genres[]=4#results</link>
+      <description>Music</description>
+    </item>
+    <item>
+      <title>Horror</title>
+      <link>/torrents.php?genres[]=3#results</link>
+      <description>Horror</description>
+    </item>
+    <item>
+      <title>Comedy</title>
+      <link>/torrents.php?genres[]=2#results</link>
+      <description>Comedy</description>
+    </item>
+    <item>
+      <title>Action</title>
+      <link>/torrents.php?genres[]=1#results</link>
+      <description>Action</description>
+    </item>
+    <item>
+      <title>SD</title>
+      <link>/torrents.php?cat=34#results</link>
+      <description>SD</description>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>/torrents.php?cat=47#results</link>
+      <description>Misc</description>
+    </item>
+    <item>
+      <title>HD</title>
+      <link>/torrents.php?cat=35#results</link>
+      <description>HD</description>
+    </item>
+    <item>
+      <title>4K UHD</title>
+      <link>/torrents.php?cat=48#results</link>
+      <description>4K UHD</description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>/torrents.php?cat=7#results</link>
+      <description>Sports</description>
+    </item>
+    <item>
+      <title>Packs</title>
+      <link>/torrents.php?cat=6#results</link>
+      <description>Packs</description>
+    </item>
+    <item>
+      <title>Eps 4k UHD</title>
+      <link>/torrents.php?cat=11#results</link>
+      <description>Eps 4k UHD</description>
+    </item>
+    <item>
+      <title>Episodes SD</title>
+      <link>/torrents.php?cat=5#results</link>
+      <description>Episodes SD</description>
+    </item>
+    <item>
+      <title>Episodes HD</title>
+      <link>/torrents.php?cat=41#results</link>
+      <description>Episodes HD</description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>/torrents.php?cat=33#results</link>
+      <description>Training</description>
+    </item>
+    <item>
+      <title>Pictures</title>
+      <link>/torrents.php?cat=37#results</link>
+      <description>Pictures</description>
+    </item>
+    <item>
+      <title>Other</title>
+      <link>/torrents.php?cat=40#results</link>
+      <description>Other</description>
+    </item>
+    <item>
+      <title>Audio</title>
+      <link>/torrents.php?cat=17#results</link>
+      <description>Audio</description>
+    </item>
+    <item>
+      <title>Singles</title>
+      <link>/torrents.php?cat=24#results</link>
+      <description>Singles</description>
+    </item>
+    <item>
+      <title>Musicvideo</title>
+      <link>/torrents.php?cat=25#results</link>
+      <description>Musicvideo</description>
+    </item>
+    <item>
+      <title>Lossless</title>
+      <link>/torrents.php?cat=23#results</link>
+      <description>Lossless</description>
+    </item>
+    <item>
+      <title>Discography</title>
+      <link>/torrents.php?cat=26#results</link>
+      <description>Discography</description>
+    </item>
+    <item>
+      <title>Albums</title>
+      <link>/torrents.php?cat=22#results</link>
+      <description>Albums</description>
+    </item>
+    <item>
+      <title>SD</title>
+      <link>/torrents.php?cat=1#results</link>
+      <description>SD</description>
+    </item>
+    <item>
+      <title>Packs</title>
+      <link>/torrents.php?cat=4#results</link>
+      <description>Packs</description>
+    </item>
+    <item>
+      <title>HD</title>
+      <link>/torrents.php?cat=42#results</link>
+      <description>HD</description>
+    </item>
+    <item>
+      <title>CAM/TS</title>
+      <link>/torrents.php?cat=45#results</link>
+      <description>CAM/TS</description>
+    </item>
+    <item>
+      <title>Bollywood</title>
+      <link>/torrents.php?cat=46#results</link>
+      <description>Bollywood</description>
+    </item>
+    <item>
+      <title>4K UHD</title>
+      <link>/torrents.php?cat=3#results</link>
+      <description>4K UHD</description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>/torrents.php?cat=10#results</link>
+      <description>Windows</description>
+    </item>
+    <item>
+      <title>Other</title>
+      <link>/torrents.php?cat=43#results</link>
+      <description>Other</description>
+    </item>
+    <item>
+      <title>All</title>
+      <link>/torrents.php?cat=9#results</link>
+      <description>All</description>
+    </item>
+    <item>
+      <title>Magazine</title>
+      <link>/torrents.php?cat=15#results</link>
+      <description>Magazine</description>
+    </item>
+    <item>
+      <title>Educational</title>
+      <link>/torrents.php?cat=14#results</link>
+      <description>Educational</description>
+    </item>
+    <item>
+      <title>Ebooks</title>
+      <link>/torrents.php?cat=12#results</link>
+      <description>Ebooks</description>
+    </item>
+    <item>
+      <title>Comics</title>
+      <link>/torrents.php?cat=19#results</link>
+      <description>Comics</description>
+    </item>
+    <item>
+      <title>Audiobooks</title>
+      <link>/torrents.php?cat=13#results</link>
+      <description>Audiobooks</description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>/torrents.php?cat=18#results</link>
+      <description>Windows</description>
+    </item>
+    <item>
+      <title>Other</title>
+      <link>/torrents.php?cat=21#results</link>
+      <description>Other</description>
+    </item>
+    <item>
+      <title>Mobile</title>
+      <link>/torrents.php?cat=20#results</link>
+      <description>Mobile</description>
+    </item>
+    <item>
+      <title>All</title>
+      <link>/torrents.php?cat=28#results</link>
+      <description>All</description>
+    </item>
+    <item>
+      <title>XXX</title>
+      <link>/torrents.php?parent_cat=XXX#results</link>
+      <description>XXX</description>
+    </item>
+    <item>
+      <title>TV</title>
+      <link>/torrents.php?parent_cat=TV#results</link>
+      <description>TV</description>
+    </item>
+    <item>
+      <title>Other</title>
+      <link>/torrents.php?parent_cat=Other#results</link>
+      <description>Other</description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>/torrents.php?parent_cat=Music#results</link>
+      <description>Music</description>
+    </item>
+    <item>
+      <title>Movies</title>
+      <link>/torrents.php?parent_cat=Movies#results</link>
+      <description>Movies</description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>/torrents.php?parent_cat=Games#results</link>
+      <description>Games</description>
+    </item>
+    <item>
+      <title>Docus</title>
+      <link>/torrents.php?parent_cat=Docus#results</link>
+      <description>Docus</description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>/torrents.php?parent_cat=Books#results</link>
+      <description>Books</description>
+    </item>
+    <item>
+      <title>Apps</title>
+      <link>/torrents.php?parent_cat=Apps#results</link>
+      <description>Apps</description>
+    </item>
+    <item>
+      <title>Anime</title>
+      <link>/torrents.php?parent_cat=Anime#results</link>
+      <description>Anime</description>
+    </item>
+    <item>
+      <title>All categories</title>
+      <link>/torrents.php#results</link>
+      <description>All categories</description>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>/torrents-hotpicks.php?cat=4</link>
+      <description>Misc</description>
+    </item>
+    <item>
+      <title>New TV</title>
+      <link>/torrents-hotpicks.php?cat=3</link>
+      <description>New TV</description>
+    </item>
+    <item>
+      <title>1080p x265</title>
+      <link>/torrents-hotpicks.php?cat=2</link>
+      <description>1080p x265</description>
+    </item>
+    <item>
+      <title>New Movies</title>
+      <link>/torrents-hotpicks.php?cat=1</link>
+      <description>New Movies</description>
+    </item>
+    <item>
+      <title>First Cam</title>
+      <link>/torrents-hotpicks.php?cat=0</link>
+      <description>First Cam</description>
+    </item>
+    <item>
+      <title>https://getmonero.org</title>
+      <link>https://getmonero.org</link>
+      <description>https://getmonero.org</description>
+    </item>
+    <item>
+      <title>Onliners</title>
+      <link>/onliners</link>
+      <description>Onliners</description>
+    </item>
+    <item>
+      <title>Now streaming</title>
+      <link>/streams</link>
+      <description>Now streaming</description>
+    </item>
+    <item>
+      <title>Latest</title>
+      <link>/latest</link>
+      <description>Latest</description>
+    </item>
+    <item>
+      <title>Torrents</title>
+      <link>/dl/</link>
+      <description>Torrents</description>
+    </item>
+    <item>
+      <title>Browse</title>
+      <link>/torrents.php</link>
+      <description>Browse</description>
+    </item>
+    <item>
+      <title>Forum</title>
+      <link>/forums.php</link>
+      <description>Forum</description>
+    </item>
+    <item>
+      <title>Arcade-hall</title>
+      <link>/arcade</link>
+      <description>Arcade-hall</description>
+    </item>
+    <item>
+      <title>Lobby</title>
+      <link>/lobby.php</link>
+      <description>Lobby</description>
+    </item>
+    <item>
+      <title>Login</title>
+      <link>/account-login.php</link>
+      <description>Login</description>
+    </item>
+    <item>
+      <title>Sign up</title>
+      <link>/account-signup.php</link>
+      <description>Sign up</description>
+    </item>
+    <item>
+      <title>*NEW*   Dark theme</title>
+      <link>/hub.php?a=switchtheme&amp;returnto=%2Ftorrents.php%3Fc17%3D1%26search%3DDBaum2%26lang%3D0%26nox%3D2%26nox%3D1</link>
+      <description>*NEW*   Dark theme</description>
     </item>
   </channel>
 </rss>
