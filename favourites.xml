@@ -1,6 +1,6 @@
 <favourites>
     <favourite name="Favourites Updater">RunAddon("script.favourites.updater")</favourite>
-    <favourite name="Ivue TV Guide 3TEST" thumb="C:\Users\Administrator\AppData\Roaming\Kodi\addons\script.ivueguide\icon.png">RunScript("script.ivueguide")</favourite>
+    <favourite name="Ivue TV Guide 4TEST" thumb="C:\Users\Administrator\AppData\Roaming\Kodi\addons\script.ivueguide\icon.png">RunScript("script.ivueguide")</favourite>
     <favourite name="[COLOR orchid]¤[/COLOR] [B][COLOR white]NFL[/COLOR][/B] [COLOR orchid]¤[/COLOR]" thumb="C:\Users\Administrator\AppData\Roaming\Kodi\addons\script.thecrew.artwork\resources\media\thecrew\nfl.png">ActivateWindow(10025,"plugin://plugin.video.thecrew/?action=nfl",return)</favourite>
     <favourite name="[COLOR orchid]¤[/COLOR] [B][COLOR white]NHL[/COLOR][/B] [COLOR orchid]¤[/COLOR]" thumb="C:\Users\Administrator\AppData\Roaming\Kodi\addons\script.thecrew.artwork\resources\media\thecrew\nhl.png">ActivateWindow(10025,"plugin://plugin.video.thecrew/?action=nhl",return)</favourite>
     <favourite name="[COLOR orchid]¤[/COLOR] [B][COLOR white]NBA[/COLOR][/B] [COLOR orchid]¤[/COLOR]" thumb="C:\Users\Administrator\AppData\Roaming\Kodi\addons\script.thecrew.artwork\resources\media\thecrew\nba.png">ActivateWindow(10025,"plugin://plugin.video.thecrew/?action=nba",return)</favourite>
