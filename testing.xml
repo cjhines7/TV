@@ -12,10 +12,10 @@
 
 	<item>
 	    <title>My Channel Fallback Test</title>
-	    <link>http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8</link>
+	    <link>http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8TEST</link>
 	    <fallback>
-	        <link>http://fl2.moveonjoy.com/CBSEAST/index.m3u8</link>
-	        <link>http://fl3.moveonjoy.com/Comedy_Central/index.m3u8</link>
+	        <link>http://fl2.moveonjoy.com/CBSEAST/index.m3u8TEST</link>
+	        <link>http://fl3.moveonjoy.com/Comedy_Central/index.m3u8TEST</link>
 		<link>http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8</link>
 	    </fallback>
 	    <thumbnail>http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png</thumbnail>
