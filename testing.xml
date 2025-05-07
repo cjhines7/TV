@@ -6,7 +6,7 @@
         <link>ignorme</link>
         <jsonrpc>plugin://plugin.video.json_iptv</jsonrpc>
         <!-- <jsonrpc>plugin://plugin.video.scrubsv2/?action=ustvgoNavigator</jsonrpc> -->
-    </item>
+    </item>,
     <item>
         <title>My Channel Fallback Test</title>
         <link>http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8TEST</link>
