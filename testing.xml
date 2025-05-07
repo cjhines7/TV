@@ -1,6 +1,15 @@
 <!--TESTING SECTION -->
 
 <item>
+    <title>TESTING SECTION</title>
+    <fanart></fanart>
+    <thumbnail></thumbnail>
+    <link>ignorme</link>
+    <jsonrpc>plugin://plugin.video.json_iptv</jsonrpc>
+    <!-- <jsonrpc>plugin://plugin.video.scrubsv2/?action=ustvgoNavigator</jsonrpc> -->
+</item>
+
+<item>
     <title>My Channel Fallback Test</title>
     <link>http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8TEST</link>
     <fallback>
